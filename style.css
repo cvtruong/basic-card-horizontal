@@ -8,7 +8,8 @@
 
 body {
     background-color: gray;
-    background-image: "monkeybackground.png";
+    background-image: url('monkeybackground.png');
+    background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
 }
