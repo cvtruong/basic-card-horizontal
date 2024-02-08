@@ -7,11 +7,9 @@
 
 
 body {
-    background-color: gray;
     background-image: url('monkeybackground.png');
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
-    overflow: hidden;
 }
 /* the main card container */
 
@@ -36,7 +34,7 @@ h1{
   text-align: center;
   font-size: 45px;
   position: relative; top: 40px;
-  color: #27a59c;
+  color: #7A5C41;
   
 }
 
@@ -48,7 +46,7 @@ h2{
   text-align: center;
   position: relative; 
   top: 40px;
-  color: #027691;
+  color: #7A5C41;
 } 
 
 h3{
@@ -62,14 +60,14 @@ h3{
 }
 /* How links are styled on page load and also after a link has been visited */
 a:link, a:visited {
-  color: #0b8577;
+  color: #7A5C41;
   padding: 0px 0px;
   text-align: center;
   text-decoration: none;
 }
 /* how a link is styled when you hover over it */
 a:hover {
-  color: rgb(0, 151, 206);
+  color: #7A5C41;
 }
 
 /* specific styling to scale elements down for mobile */
