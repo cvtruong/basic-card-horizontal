@@ -9,7 +9,7 @@
 body {
     background-image: url('background.png');
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 /* the main card container */
 
@@ -31,9 +31,10 @@ h1{
   margin-bottom: 0px;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 600;
-  text-align: center;
+  text-align: left;
   font-size: 45px;
   position: relative; top: 40px;
+  position: relative; left: 50px;
   color: #7A5C41;
   
 }
@@ -42,10 +43,11 @@ h2{
   margin-top: 0px;
   padding-top: 0px;
   font-family: 'Kumbh Sans', sans-serif;
-  font-weight: 200;
-  text-align: center;
+  font-weight: 300
+  text-align: left;
   position: relative; 
   top: 40px;
+  position: relative; left: 53px;
   color: #7A5C41;
 } 
 
