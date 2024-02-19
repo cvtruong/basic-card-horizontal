@@ -1,3 +1,4 @@
+/* all the styling for desktop version */
 *{
     padding: 0;
     margin: 0;
@@ -48,7 +49,8 @@ h2{
   text-align: left;
   position: relative; 
   top: 40px;
-  position: relative; left: 52px;
+  position: relative; 
+  left: 52px;
   color: #7A5C41;
 } 
 
@@ -113,8 +115,22 @@ svg{
   h3{
     font-size:17px;
     top:2px;
+      margin-top: 3px;
+      padding-top: 5px;
+      font-family: "Ropa Sans", sans-serif;
+      text-align: left;
+      position: relative; 
+      font-size: 20px;
+      top: 50px;
+      position: relative; left: 52px;
+      color: #7A5C41;
+    }
+
+    svg{
+      margin-top:40px;;
+    }
   }
-  }
+  
 
   /* svg styling */
   .st0{fill:none;stroke:#96775B;stroke-width:10;}
