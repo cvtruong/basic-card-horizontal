@@ -55,14 +55,13 @@ h2{
 } 
 
 h3{
-  margin-top: 24px;
-  /* padding-top: 10px; */
-  padding-inline: 0px;
+  margin-top: 25px;
+  /* padding-top: 0px; */
   font-family: "Ropa Sans", sans-serif;
   text-align: left;
   position: relative; 
   font-size: 21px;
-  top: 100px;
+  top: 150px;
   position: relative; left: 52px;
   color: #7A5C41;
 }
